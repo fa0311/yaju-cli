@@ -15,7 +15,7 @@ jobs:
       packages: write
 
     env:
-      DOCKER_BASE_NAME: ghcr.io/${{ github.repository }}/docker
+      DOCKER_BASE_NAME: ghcr.io/${{ github.repository }}/${{ github.repository }}-docker
       TAG_NAME: latest
 
     steps:
