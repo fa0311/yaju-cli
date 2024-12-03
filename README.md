@@ -4,4 +4,4 @@
 
 `npx yaju`
 
-`docker run -it --rm ghcr.io/fa0311/yaju-cli/fa0311/yaju-cli-docker:latest`
+`docker run -it --rm ghcr.io/fa0311/yaju-cli/yaju-cli-docker:latest`
